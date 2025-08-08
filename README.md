@@ -1,6 +1,6 @@
 🌐 Manas Pandey – Portfolio
 
-A modern, responsive, and interactive portfolio website of **Manas Pandey**, showcasing skills, projects, certifications, and professional achievements in **Web Development** and **Design**.
+A modern, responsive, and interactive portfolio website of Manas Pandey, showcasing skills, projects, certifications, and professional achievements in Web Development and Design.
 
 ---
 
@@ -12,19 +12,19 @@ It is designed to provide recruiters, clients, and collaborators with a clear vi
 ---
 🛠️ Tech Stack
 
-**Frontend:**  
+Frontend:
 - HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React.js  
 
-**Backend:**  
+Backend:
 - Node.js, Express.js  
 
-**Database:**  
+Database:
 - MongoDB, MySQL  
 
-**Tools & Platforms:**  
+Tools & Platforms:
 - Git, GitHub, VS Code, Vite, Postman, Netlify, Vercel  
 
-**Other Skills:**  
+Other Skills:
 - RESTful APIs, JSON, AJAX, Responsive Design, SEO Optimization, UX/UI  
 
 ---
@@ -56,16 +56,16 @@ Note: Backend includes EmailJS integration for handling form submissions and sen
 
 📸 Featured Projects
 
-1. [Aryan Group of Academy – Education Website](https://aryanacademy.netlify.app)**  
+1. [Aryan Group of Academy – Education Website](https://aryanacademy.netlify.app)
    A full-stack, mobile-responsive education platform with FAQ section, testimonial carousel, and contact form.
 
-2. [Hind Ke Sitara – Music Streaming App](https://hindmusic.netlify.app)**  
+2. [Hind Ke Sitara – Music Streaming App](https://hindmusic.netlify.app)
    A front-end music player app with dynamic music loading, audio controls, and responsive design.
 
-3. [Matashree Furniture – E-Commerce Platform](https://matashree.netlify.app)**  
+3. [Matashree Furniture – E-Commerce Platform](https://matashree.netlify.app)
    A static multi-page furniture website showcasing products with a responsive design.
 
-4. [Legal Justice – Web Application](https://github.com/Manas22-creator/Legal-Justice)**  
+4. [Legal Justice – Web Application](https://github.com/Manas22-creator/Legal-Justice)
    A modern legal services SPA built using React.js and Vite, with reusable components and category-based filtering.
 
 ---
