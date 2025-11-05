@@ -72,7 +72,7 @@ Note: Backend includes EmailJS integration for handling form submissions and sen
 
 📬 Contact
 
-Manas Pandey**  
+Manas Pandey  
 📍 Mira Road (E), Thane, Maharashtra, India  
 📞 +91 8355859097  
 📧 [pandeymanas220204@gmail.com](mailto:pandeymanas220204@gmail.com)  
